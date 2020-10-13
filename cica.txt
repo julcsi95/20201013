@@ -3,3 +3,4 @@ perzsa
 mainecoon
 Bengál 
 Házi
+savanna
