@@ -2,5 +2,6 @@ perzsa
 	cilu
 mainecoon
 Bengál 
+Sinx
 Házi
 savanna
